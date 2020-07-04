@@ -218,3 +218,17 @@ footer {
 	width: 120%;
 }
 }
+@media screen and (max-width: 1240px) {
+	footer {
+	margin-top: 30%;
+}
+	footer img {
+	width: 21%;
+}
+	ul {
+	margin-left: 20px;
+}
+	.container {
+	width: 90%;
+}
+}
