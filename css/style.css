@@ -174,3 +174,47 @@ footer img {
 span {
 	color: #172958;
 }
+@media screen and (max-width: 1440px) {
+	footer {
+	margin-top: 23%;
+}
+}
+@media screen and (max-width: 1024px) {
+	footer {
+	margin-top: 35%;
+}
+footer img {
+	width: 20%;
+}
+ul {
+	margin-left: 30px;
+}
+li {
+	font-size: 18px;
+	padding-right: 20px;
+}
+#logo {
+	margin-right: 20%;
+}
+.container {
+	width: 90%;
+}
+header {
+	width: 120%;
+}
+.home {
+	width: 120%;
+}
+.order {
+	width: 120%;
+}
+.about {
+	width: 120%;
+}
+.map {
+	width: 120%;
+}
+footer {
+	width: 120%;
+}
+}
