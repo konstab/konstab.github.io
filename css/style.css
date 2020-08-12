@@ -4,6 +4,7 @@ html, body {
 	font-family: Tahoma;
 	background-color: white;
 	width: 100%;
+	overflow-x: hidden;
 	min-width: 960px;
 	max-width: 100%;
 }
@@ -140,8 +141,8 @@ li {
 	top: 50px;
 }
 .img {
-	width: 50%;
-	float: right;
+	width: 40%;
+	float: left;
 }
 .contact p {
 	font-size: 25px;
